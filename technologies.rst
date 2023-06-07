@@ -2,6 +2,17 @@
 Технологии для технического писателя
 ************************************
 
+Стайлгайды
+==========
+
+- Google: https://developers.google.com/style
+- Microsoft: https://learn.microsoft.com/en-us/style-guide/welcome/
+- Языковой портал MS: https://www.microsoft.com/ru-ru/language/
+- The Chicago Manual of Style: https://www.chicagomanualofstyle.org/home.html
+- Стайлгайды для медиа: http://rdpk.ru/
+- Veeam: https://helpcenter.veeam.com/docs/styleguide/tw/intro.html
+- New Relic: https://docs.newrelic.com/docs/style-guide/writing-strategies/introduction-style-guide/
+
 Docs-as-Code
 ============
 
