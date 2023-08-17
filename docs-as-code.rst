@@ -66,7 +66,10 @@ Confluence
 Markdown
 ^^^^^^^^
 
-!!!!!!!!!!!!!!!!!
+Самый простой язык, но без спецификации, и с большим количеством диалектов:
+
+- https://daringfireball.net/projects/markdown/syntax
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ReStructuredText
 ^^^^^^^^^^^^^^^^
@@ -85,15 +88,22 @@ AsciiDoc
 - Sphinx на reStructuredText
 - Antora и Asciidoctor - у них asciidoc
 
-foliant
+Foliant
 ^^^^^^^
 
-!!!!!!!!!!!!!!!!!!!
+Foliant — это универсальный инструмент для создания документации. Он позволяет создавать отдельные документы в формате pdf и docx , создавать статические веб-сайты и загружать страницы в Confluence, и все это из одного источника Markdown.
+
+Foliant использует другие программы для выполнения своей работы. Для создания pdf и docx можно использовать Pandoc или md-to-pdf, для веб-сайтов MkDocs, Aglio или Slate.
+
+- https://foliant-docs.github.io/
+- https://foliant-docs.github.io/docs/preprocessors/confluence/
 
 MkDocs
 ^^^^^^
 
-!!!!!!!!
+Еще один генератор на md: https://www.mkdocs.org/
+
+Тема Material: https://squidfunk.github.io/mkdocs-material/
 
 Hugo
 ^^^^
@@ -116,3 +126,20 @@ https://www.sphinx-doc.org/en/master/
 - популярность
 - поддержка Markdown
 - выгрузка в различные форматы
+
+Мой опыт
+========
+
+Продукту, над которым я работаю, нужны:
+
+1. Приличный сайт с документацией
+2. Перевод на другие языки
+3. Встраивание сборки документации в сборку самого продукта
+4. Переиспользование контента
+5. Документация API
+6. Сборка docx, хоть и редко
+7. Единый источник и сборка нескольких вариантов документации: cloud и enterprise, русский и английский языки
+
+Желательно чтобы инструменты были бесплатными. Gitlab у разработчиков уже был.
+
+Sphinx все мои задачи решил. Правда, понадобилось время, чтобы изучить и настроить так, чтобы все работало.
