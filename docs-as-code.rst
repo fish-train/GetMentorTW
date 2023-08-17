@@ -43,6 +43,14 @@ Confluence
 - https://github.com/sphinx-contrib/confluencebuilder/
 - https://github.com/asciidoctor/asciidoctor-confluence
 
+Git
+---
+
+- https://git-scm.com/book/ru/v2
+- https://htmlacademy.ru/blog/git/git-console
+- https://githowto.com/ru
+- https://learngitbranching.js.org/?locale=ru_RU
+
 С чего начать
 =============
 
