@@ -1,9 +1,24 @@
-*****************
-OpenAPI и Swagger
-*****************
+***
+API
+***
 
-Обзор
-=====
+Типов API очень много. Важно понимать, что REST API - это популярный тип, но далеко не единственный.
+
+- https://aws.amazon.com/ru/what-is/api/
+- https://practicum.yandex.ru/blog/chto-takoe-api/
+- https://education.yandex.ru/journal/chto-takoe-api
+
+REST API
+========
+
+- `Курс по документированию REST API <https://starkovden.github.io/about-fourth-module.html>`_
+- https://events.yandex.ru/events/hyperbaton/msk-may-2014?openTalkVideo=440-3
+- `О проектировании API <https://twirl.github.io/The-API-Book/API.ru.html>`_
+- `Postman Tutorial <https://www.youtube.com/watch?v=juldrxDrSH0&list=PLhW3qG5bs-L-oT0GenwPLcJAPD_SiFK3C>`_
+- https://stepik.org/course/124947/promo?search=3135701936
+
+OpenAPI и Swagger
+=================
 
 OpenAPI – спецификация для описания REST API. Правила, по которым можно описать API к продукту в JSON- или YAML-форматах. Есть несколько версий. Они отличаются структурой и некоторыми тегами.
 
@@ -22,7 +37,6 @@ Swagger – набор инструментов для описания и ви�
 
 Подробнее:
 
-- `Курс по документированию REST API <https://starkovden.github.io/about-fourth-module.html>`_ 
 - `Documenting APIs: A guide for technical writers and engineers <https://idratherbewriting.com/learnapidoc/openapi_tutorial.html>`_
 - https://blog.skillfactory.ru/glossary/swagger/
 - `Интеграция Swagger с документацией <https://fish-train.github.io/flnt-test/swagger/>`_ 
