@@ -11,11 +11,41 @@ API
 REST API
 ========
 
-- `Курс по документированию REST API <https://starkovden.github.io/about-fourth-module.html>`_
+- `Курс по документированию REST API <https://starkovden.github.io/about-first-module.html>`_ и https://idratherbewriting.com/learnapidoc/
 - https://events.yandex.ru/events/hyperbaton/msk-may-2014?openTalkVideo=440-3
 - `О проектировании API <https://twirl.github.io/The-API-Book/API.ru.html>`_
 - `Postman Tutorial <https://www.youtube.com/watch?v=juldrxDrSH0&list=PLhW3qG5bs-L-oT0GenwPLcJAPD_SiFK3C>`_
 - https://stepik.org/course/124947/promo?search=3135701936
+
+Примеры API
+===========
+
+Применение зависит от самого сервиса, который предоставляет API для своих клиентов.
+
+Прогноз погоды и отображение в HTML
+-----------------------------------
+
+Запрос: https://openweathermap.org/current#fields_json
+
+Нагрузочное тестирование
+------------------------
+
+Покажу пример локально
+
+Проверка подключения кондиционера у Умному дому
+-----------------------------------------------
+
+https://yandex.ru/dev/dialogs/smart-home/doc/concepts/mode.html#discovery__example
+
+Приложения VK для работы с фото
+-------------------------------
+
+https://dev.vk.com/ru/method/photos
+
+Публичные API
+-------------
+
+- https://github.com/public-apis/public-apis
 
 OpenAPI и Swagger
 =================
