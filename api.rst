@@ -2,14 +2,19 @@
 API
 ***
 
+API – Application Programming Interface, программный интерфейс приложения. Набор инструкций, который позволяет разным приложениям общаться между собой. Набор фич, которые одна программа представляет всем остальным.
+
 Типов API очень много. Важно понимать, что REST API - это популярный тип, но далеко не единственный.
 
 - https://aws.amazon.com/ru/what-is/api/
+- https://doka.guide/tools/api/
 - https://practicum.yandex.ru/blog/chto-takoe-api/
 - https://education.yandex.ru/journal/chto-takoe-api
 
 REST API
 ========
+
+REST - архитектурный стиль для API. Он определяет набор функций, таких как GET, POST, DELETE, которые клиенты могут использовать для доступа к данным сервера. Клиенты и серверы обмениваются данными по протоколу HTTP.
 
 - `Курс по документированию REST API <https://starkovden.github.io/about-first-module.html>`_ и https://idratherbewriting.com/learnapidoc/
 - https://events.yandex.ru/events/hyperbaton/msk-may-2014?openTalkVideo=440-3
