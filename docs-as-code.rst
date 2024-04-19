@@ -2,11 +2,6 @@
 Docs-as-code
 ************
 
-   Внедрение подхода doc-as-code
-
-   - Есть непонимание с чего начать, на что обратить внимание и какие ошибки лучше не совершать. Интересно узнать про опыт внедрения, так как сама в этом новичок.
-   - Рекомендации по выбору инструментов.
-
 Полезные ссылки
 ===============
 
@@ -25,31 +20,6 @@ Docs-as-code
 - https://starkovden.github.io/Doc-as-code-tools.html
 - https://habr.com/ru/companies/plesk/articles/555110/
 - https://starkovden.github.io/Static-site-generators.html
-
-Asciidoc
---------
-
-- https://t.me/asciidoctor
-- `Antora <https://antora.org/>`_
-- `AsciiDoc & doc-as-code Best Practices <https://bcouetil.gitlab.io/academy/BP-asciidoc.html>`_
-- https://habr.com/ru/articles/550086/
-- https://newpodcast2.live/podcast/vanya-and-asiidoc/
-- https://habr.com/ru/users/fiddle-de-dee/publications/articles/
-
-Confluence
-----------
-
-- https://habr.com/ru/articles/483898/
-- https://github.com/sphinx-contrib/confluencebuilder/
-- https://github.com/asciidoctor/asciidoctor-confluence
-
-Git
----
-
-- https://git-scm.com/book/ru/v2
-- https://htmlacademy.ru/blog/git/git-console
-- https://githowto.com/ru
-- https://learngitbranching.js.org/?locale=ru_RU
 
 С чего начать
 =============
@@ -88,6 +58,13 @@ AsciiDoc
 ^^^^^^^^
 
 Язык разметки, специально разработанный для документирования: https://asciidoc.org/
+
+- https://t.me/asciidoctor
+- `Antora <https://antora.org/>`_
+- `AsciiDoc & doc-as-code Best Practices <https://bcouetil.gitlab.io/academy/BP-asciidoc.html>`_
+- https://habr.com/ru/articles/550086/
+- https://newpodcast2.live/podcast/vanya-and-asiidoc/
+- https://habr.com/ru/users/fiddle-de-dee/publications/articles/
 
 Генераторы документации
 -----------------------
@@ -151,3 +128,18 @@ https://www.sphinx-doc.org/en/master/
 Желательно чтобы инструменты были бесплатными. Gitlab у разработчиков уже был.
 
 Sphinx все мои задачи решил. Правда, понадобилось время, чтобы изучить и настроить так, чтобы все работало.
+
+Еще-как-Код
+===========
+
+Презентации
+-----------
+
+Фреймворк Reveal.js для создания презентаций: https://revealjs.com/
+
+Диаграммы и схемы
+-----------------
+
+- Mermaid: https://mermaid.js.org/
+- Graphviz: https://graphviz.org/
+- PlantUML: https://plantuml.com/ru/
