@@ -40,6 +40,9 @@
 - https://habr.com/ru/companies/itsumma/articles/695804/
 - https://docs.newrelic.com/docs/style-guide/writing-strategies/five-questions-help-write-docs/
 - https://www.sberbank.com/promo/plain_language_guide/
+- `Языковой портал MS <https://www.microsoft.com/ru-ru/language/>`_
+- `The Chicago Manual of Style <https://www.chicagomanualofstyle.org/home.html>`_
+- `New Relic <https://docs.newrelic.com/docs/style-guide/writing-strategies/introduction-style-guide/>`_
 
 Введение
 ========
