@@ -21,10 +21,24 @@ Docs-as-code
 - https://habr.com/ru/companies/plesk/articles/555110/
 - https://starkovden.github.io/Static-site-generators.html
 
+Мой опыт изучения
+=================
+
+Все изучить невозможно.
+
+1. Выбрал генератор и язык разметки.
+2. Придумал список задач, что хочу сделать с помощью инструмента.
+3. Задокументировал свои действия в самом инструменте.
+4. Выложил результат на GitHub Pages:
+
+   - https://fish-train.github.io/flnt-test/
+   - https://sph-learning.readthedocs.io/ru/latest/index.html
+   - https://fish-train.github.io/DevOps_Docs/
+
 С чего начать
 =============
 
-Определитесь с требованиями к вашей документации:
+Определитесь с требованиями к вашей документации или учебному проекту:
 
 - Выходной формат: HTML, DOCX, PDF или другие
 - Если нужен HTML, то какие фичи должны быть в статическом сайте
@@ -37,6 +51,8 @@ Docs-as-code
 
 Выбор инструмента
 =================
+
+Был доклад на TWD: Анжела Андронова. 
 
 Язык разметки
 -------------
@@ -52,7 +68,11 @@ Markdown
 ReStructuredText
 ^^^^^^^^^^^^^^^^
 
-Язык разметки с единой спецификацией: https://docutils.sourceforge.io/rst.html
+Язык разметки с единой спецификацией. 
+
+- https://docutils.sourceforge.io/rst.html
+- https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html
+- https://www.writethedocs.org/guide/writing/reStructuredText/
 
 AsciiDoc
 ^^^^^^^^
@@ -70,7 +90,7 @@ AsciiDoc
 -----------------------
 
 - foliant, MkDocs, Docusaurus, они используют markdown
-- Sphinx на reStructuredText
+- Sphinx на reStructuredText и markdown
 - Antora и Asciidoctor - у них asciidoc
 
 Foliant
@@ -82,6 +102,9 @@ Foliant использует другие программы для выполн
 
 - https://foliant-docs.github.io/
 - https://foliant-docs.github.io/docs/preprocessors/confluence/
+- https://youtu.be/6CKVodl2YcA
+
+Был доклад на TWD: Денис Ребенок.
 
 MkDocs
 ^^^^^^
@@ -90,44 +113,56 @@ MkDocs
 
 Тема Material: https://squidfunk.github.io/mkdocs-material/
 
+Был доклад на TWD: Никита Груздев. 
+
 Hugo
 ^^^^
 
 Пожалуй, самый быстрый генератор: https://gohugo.io/
+
+Был доклад на TWD: Марсель Ардуанов.
 
 Docusaurus
 ^^^^^^^^^^
 
 Генератор доки на npm и react.js: https://docusaurus.io/
 
+Gramax
+^^^^^^
+
+WYSIWYG-редактор с Git под катом и сборкой в HTML:
+
+- https://gram.ax/
+- https://t.me/gramax_chat
+
+Был доклад на TWD: Александ Мачулин + Екатерина Павлова + Станислав Петров.
+
+Diplodoc
+^^^^^^^^
+
+Использует Yandex Cloud:
+
+- https://diplodoc.com/
+- https://t.me/diplodoc_ru
+
 Sphinx
 ^^^^^^
 
-https://www.sphinx-doc.org/en/master/
+- https://www.sphinx-doc.org/en/master/
+- https://www.youtube.com/watch?v=vFAkt_N6yuk&list=PLPDCBPbzk1AYghqYazE7Cxt3p7edml8I7
+- https://www.youtube.com/watch?v=8Aydox51bfo&t=5s
+- https://sublime-and-sphinx-guide.readthedocs.io/en/latest/index.html
+- https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html
+- https://sphinx-ru.readthedocs.io/archive.html
 
 Преимущества:
 
-- возможность перевода текстов из коробки
+- `возможность перевода текстов из коробки <https://www.writethedocs.org/guide/writing/reStructuredText/>`_
 - популярность
-- поддержка Markdown
+- `поддержка Markdown <https://myst-parser.readthedocs.io/en/latest/intro.html>`_
 - выгрузка в различные форматы
 
-Мой опыт
-========
-
-Продукту, над которым я работаю, нужны:
-
-1. Приличный сайт с документацией
-2. Перевод на другие языки
-3. Встраивание сборки документации в сборку самого продукта
-4. Переиспользование контента
-5. Документация API
-6. Сборка docx, хоть и редко
-7. Единый источник и сборка нескольких вариантов документации: cloud и enterprise, русский и английский языки
-
-Желательно чтобы инструменты были бесплатными. Gitlab у разработчиков уже был.
-
-Sphinx все мои задачи решил. Правда, понадобилось время, чтобы изучить и настроить так, чтобы все работало.
+Был мой доклад на TWD.
 
 Еще-как-Код
 ===========
