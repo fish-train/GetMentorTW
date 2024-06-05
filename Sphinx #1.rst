@@ -69,7 +69,7 @@ Sphinx #1
 - https://www.sphinx-doc.org/en/master/examples.html
 - https://github.com/MarkHoeber/sublime_sphinx_guide/tree/master
 
-Можно искать какие-то фрагменты кода по всем репозиториям в gшергию Например, как используется какой-то параметр в conf.py.
+Можно искать какие-то фрагменты кода по всем репозиториям в github. Например, по названию параметра в conf.py. Мы увидим, как в других проектах используется параметр.
 
 4. Автосборка
 =============
@@ -134,6 +134,8 @@ https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-o
 
 В проекте:
 
+.. image:: css1.png
+
 Переопределение шаблонов темы
 -----------------------------
 
@@ -143,7 +145,11 @@ https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-o
 
 В репозитории темы:
 
+.. image:: template1.png
+
 В проекте:
+
+.. image:: template2.png
 
 Полезные ссылки
 ===============
