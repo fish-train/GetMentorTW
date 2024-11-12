@@ -12,11 +12,14 @@ Docs-as-Code. Выбор интрументов
 ===============
 
 - https://jamstack.org/generators/
+- https://github.com/myles/awesome-static-generators
+- https://squidfunk.github.io/mkdocs-material/alternatives/
 - https://t.me/technicalwriters
 - https://t.me/docsascode
 - https://t.me/foliantdocs
 - https://t.me/gramax_chat
 - https://t.me/diplodoc_ru
+- https://t.me/asciidoctor
 
 Определитесь с требованиями к инструменту
 =========================================
@@ -67,3 +70,9 @@ AsciiDoc
 
 Опыт других компаний
 ====================
+
+- https://habr.com/ru/articles/824866/
+- https://habr.com/ru/companies/vk/articles/826904/
+- https://habr.com/ru/companies/moysklad/articles/854708/
+- https://habr.com/ru/companies/cloud_ru/articles/686050/
+- https://habr.com/ru/companies/cloud_ru/articles/767014/
