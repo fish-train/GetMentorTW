@@ -8,19 +8,6 @@ Docs-as-Code. Выбор интрументов
  1. Разграничение доступа к документации. 
  2. Хранение скриншотов. Ваше мнение о проблеме и решении, обсуждаемые в статье: https://habr.com/ru/companies/alfa/articles/745776.
 
-Полезные ссылки
-===============
-
-- https://jamstack.org/generators/
-- https://github.com/myles/awesome-static-generators
-- https://squidfunk.github.io/mkdocs-material/alternatives/
-- https://t.me/technicalwriters
-- https://t.me/docsascode
-- https://t.me/foliantdocs
-- https://t.me/gramax_chat
-- https://t.me/diplodoc_ru
-- https://t.me/asciidoctor
-
 Определитесь с требованиями к инструменту
 =========================================
 
@@ -28,11 +15,10 @@ Docs-as-Code. Выбор интрументов
 - Если нужен HTML, то какие фичи должны быть в статическом сайте
 - Требования к оформлению
 - Перевод на другие языки
-- Интеграция с Confluence
 - Переиспользование контента
 - Будет ли описание API?
 - ГОСТ?
-- Отечественная разработка?
+- Отечественный инструмент?
 - От кого разграничивать доступ?
 - Команда внедрения и бюджет?
 
@@ -132,3 +118,16 @@ AsciiDoc
 - попросить админа настроить nginx, открывающий только один порт и с авторизацией;
 - если документация для внутреннего пользователя, то в приватном репозитории создать вики и расшаривать только сотрудникам;
 - прикрутить инструмент авторизации, например, https://auth0.com/.
+
+Полезные ссылки
+===============
+
+- https://jamstack.org/generators/
+- https://github.com/myles/awesome-static-generators
+- https://squidfunk.github.io/mkdocs-material/alternatives/
+- https://t.me/technicalwriters
+- https://t.me/docsascode
+- https://t.me/foliantdocs
+- https://t.me/gramax_chat
+- https://t.me/diplodoc_ru
+- https://t.me/asciidoctor
